@@ -114,3 +114,13 @@ elif avg in range(21, 33):
 
 elif avg in range(0, 21):
     print("Your Grade is E2")
+    
+    
+    
+#BMI Calculator
+weight = float(input("Enter your weight in kg : "))
+height = float(input("Enter your height in metres : "))
+
+bmi = weight/(height**2)
+
+print("The bmi is ",bmi)
