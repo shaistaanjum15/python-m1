@@ -106,3 +106,12 @@ print("After seed reserve :", total, "kg")
 bags = total // 25
 print("Final bags packed  :", bags)
 
+
+#odd and even 
+
+num = int(input("Enter a number to check if its even or odd : "))
+if num%2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
