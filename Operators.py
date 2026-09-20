@@ -40,6 +40,19 @@
 # print(bags)        # Output: 23
 
 
+#percentage
+marks=45
+total =50
+percentage = (marks/total)*100
+print(percentage)
+
+#Square root 
+import math 
+number = 25
+answer = math.sqrt(number)
+print(answer)
+
+
 # ============================================================
 # Farm Harvest Calculator
 # ============================================================
