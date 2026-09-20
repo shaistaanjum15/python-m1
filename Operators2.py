@@ -124,3 +124,8 @@ height = float(input("Enter your height in metres : "))
 bmi = weight/(height**2)
 
 print("The bmi is ",bmi)
+
+#ASCII Value
+print(ord("A")) #ascii value - it gives number to each character
+
+print(chr(65)) #chr changes gives the ascii number back to character
